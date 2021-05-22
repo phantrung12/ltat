@@ -1,0 +1,10 @@
+D:\Bài tập Lập trình âm thanh\SoundProcess\SoundProcess\bin\Debug\SoundProcess.exe.config
+D:\Bài tập Lập trình âm thanh\SoundProcess\SoundProcess\bin\Debug\SoundProcess.exe
+D:\Bài tập Lập trình âm thanh\SoundProcess\SoundProcess\bin\Debug\SoundProcess.pdb
+D:\Bài tập Lập trình âm thanh\SoundProcess\SoundProcess\obj\Debug\SoundProcess.csprojAssemblyReference.cache
+D:\Bài tập Lập trình âm thanh\SoundProcess\SoundProcess\obj\Debug\SoundProcess.Form1.resources
+D:\Bài tập Lập trình âm thanh\SoundProcess\SoundProcess\obj\Debug\SoundProcess.Properties.Resources.resources
+D:\Bài tập Lập trình âm thanh\SoundProcess\SoundProcess\obj\Debug\SoundProcess.csproj.GenerateResource.cache
+D:\Bài tập Lập trình âm thanh\SoundProcess\SoundProcess\obj\Debug\SoundProcess.csproj.CoreCompileInputs.cache
+D:\Bài tập Lập trình âm thanh\SoundProcess\SoundProcess\obj\Debug\SoundProcess.exe
+D:\Bài tập Lập trình âm thanh\SoundProcess\SoundProcess\obj\Debug\SoundProcess.pdb
